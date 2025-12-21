@@ -1,1 +1,1 @@
-[ json, yaml ] are the only format supported
+[ json, yaml ] are the only format supported | Short Description: Error viewing model | Probable Cause: Output format not supported | Suggested Remediation: Ensure giving a valid format

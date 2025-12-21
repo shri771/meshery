@@ -2,4 +2,4 @@
 
 Usage: 
 mesheryctl  exp workspace list --orgId [Organization ID]
-mesheryctl  exp workspace list --help' to see detailed help message
+mesheryctl  exp workspace list --help' to see detailed help message | Short Description: Invalid Argument | Probable Cause: Invalid Argument | Suggested Remediation: Please check the arguments passed

@@ -1,3 +1,4 @@
 Request failed.
 Ensure meshery server is available.
 See https://docs.meshery.io/reference/mesheryctl/exp/workspace/create for usage details
+ | Short Description: Failed to make a request | Probable Cause: Meshery server is not reachable. | Suggested Remediation: Please ensure that the Meshery server is running and accessible. You can try running 'mesheryctl system restart'.

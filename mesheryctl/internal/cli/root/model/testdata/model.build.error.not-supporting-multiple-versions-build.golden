@@ -5,4 +5,4 @@ mesheryctl model build [model-name]/[model-version]
 
 Run 'mesheryctl model build --help' to see detailed help message
 
-Command does not support multiple versions build under one image
+Command does not support multiple versions build under one image | Short Description: Error model build | Probable Cause: Error during run of model build command | Suggested Remediation: Ensure passing all params according to the command description

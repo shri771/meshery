@@ -1,1 +1,1 @@
-must provide only one argument: model name
+must provide only one argument: model name | Short Description: Error model init | Probable Cause: Error during run of model init command | Suggested Remediation: Ensure passing all params according to the command description

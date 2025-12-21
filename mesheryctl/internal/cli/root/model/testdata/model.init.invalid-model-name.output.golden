@@ -1,1 +1,1 @@
-invalid model name: name must match pattern ^[a-z0-9-]+$
+invalid model name: name must match pattern ^[a-z0-9-]+$ | Short Description: Error model init | Probable Cause: Error during run of model init command | Suggested Remediation: Ensure passing all params according to the command description
