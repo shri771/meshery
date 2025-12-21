@@ -269,6 +269,9 @@ func TestModelInit(t *testing.T) {
 			if err != nil {
 				// if we're supposed to get an error
 				if tc.ExpectError {
+					if *update {
+						golden.Write(err.Error())
+					}
 					expectedResponse := golden.Load()
 
 					utils.Equals(t, expectedResponse, err.Error())
